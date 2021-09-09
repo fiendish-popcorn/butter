@@ -1,2 +1,2 @@
-# butter
+# Butter
 Buttery popcorn!
